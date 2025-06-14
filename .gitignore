@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+/venv
+/.env
+/.idea
+**/__pycache__/
+**/downloads
+__pycache__/
+downloads/
+/.DS_Store
+.DS_Store
+**/TelegramBotApiServer/telegram-bot-api/build
+**/build/
+**/build
